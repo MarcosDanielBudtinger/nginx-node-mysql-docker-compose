@@ -2,7 +2,7 @@
 
 Projeto para estudo de docker e docker-compose.
 
-Utilizado o NGINX como proxy reverso expondo a nossa apliçaão NODEJS
+Utilizado o NGINX como proxy reverso expondo a nossa aplicação NODEJS
 que por sua vez efetua insert e busca registros em um banco de dados MYSQL.
 
 Para o banco de dados foi criado um volume para não perder os dados.
